@@ -34,12 +34,13 @@ public class StudentGroup implements StudentArrayOperation {
 		StringBuilder sb=new StringBuilder ();
 		for(int i=0;i<students.length;i++)
 			sb.append(students[i]);
+
 	}
 
 	@Override
 	public Student getStudent(int index) {
 		// Add your implementation here
-		return students[index];
+		return null;
 	}
 
 	@Override
