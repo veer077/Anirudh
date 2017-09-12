@@ -31,10 +31,10 @@ public class StudentGroup implements StudentArrayOperation {
 
 	@Override
 	public void setStudents(Student[] students) {
-		StringBuilder sb=new StringBuilder ();
+		/*StringBuilder sb=new StringBuilder ();
 		for(int i=0;i<students.length;i++)
 			sb.append(students[i]);
-
+*/
 	}
 
 	@Override
